@@ -1,0 +1,18 @@
+.departments {
+    padding: 2rem;
+  }
+  
+  .departments table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .departments th, .departments td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .departments th {
+    background-color: #f2f2f2;
+  }
+  

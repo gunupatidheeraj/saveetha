@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #6ca3b3;
+    padding: 1rem;
+  }
+  
+  .header a {
+    color: rgb(154, 190, 114);
+    text-decoration: none;
+  }
+  
+  .header a:hover {
+    text-decoration: underline;
+  }
+  
